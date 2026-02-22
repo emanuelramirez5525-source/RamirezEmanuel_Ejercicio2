@@ -153,3 +153,6 @@ if (USB == "S")
         nivel = "USB no autorizado";
     }
 }
+Console.WriteLine("RESULTADOS");
+Console.WriteLine("El acceso es: " + acceso);
+Console.WriteLine("Su nivel de permiso es: " + nivel);
