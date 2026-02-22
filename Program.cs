@@ -23,3 +23,42 @@ string autorizacion = Console.ReadLine();
 Console.WriteLine("Trae USB? (S/N)");
 string USB = Console.ReadLine();
 
+
+
+
+
+
+
+switch (opcion)
+{
+
+    case 1:
+
+
+
+
+    break;
+
+
+    case 2:
+
+
+
+
+    break;
+
+    case 3:
+
+
+
+    break;
+
+    case 4:
+
+
+
+
+    break;
+
+
+}
